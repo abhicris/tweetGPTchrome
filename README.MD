@@ -30,6 +30,8 @@ When you press it, it will let you select a type of tweet to generate. The types
 
 Once selected, the extension will write a new tweet.
 
+extension asks for the personality style of the tweet and comes up with rlevant text
+
 For a reply, it will generate a tweet based on the original tweet. For a new tweet, it will ask for a topic you want to write tweet about.
 
 <img src="./docs/reply.gif" height="379" width="609">
